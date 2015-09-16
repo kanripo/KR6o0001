@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:07.362583
+#+DATE: 2015-08-30 20:59:08.559156
 #+TITLE: 因明正理門論本
 #+PROPERTY: CBETA_ID T32n1628
 #+PROPERTY: ID KR6o0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1628
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0001_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1628[No.1629]¶
-
- 《因明正理門論本》¶
+No. 1628 [No. 1629]¶
+《因明正理門論本》¶
 ¶
 大域龍菩薩造¶
 大唐三藏法師玄奘奉　詔譯¶
